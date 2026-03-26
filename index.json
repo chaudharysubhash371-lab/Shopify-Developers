@@ -1,0 +1,8 @@
+{
+  "sections": {
+    "hero": { "type": "hero" },
+    "mood": { "type": "mood-selector" },
+    "products": { "type": "featured-products" }
+  },
+  "order": ["hero", "mood", "products"]
+}
